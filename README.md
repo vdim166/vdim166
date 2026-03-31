@@ -1,5 +1,5 @@
 ### Привет 👋 Меня зовут Вадим
-Мне 23 года. Я Fullstack разработчик с 5+ годами опыта в программирование. Использую в своих проектах Nodejs, Javascript, Typescript, React, Next, Nest, Redux(redux-toolkit), MobX, MongoDB, Postgresql, Prisma, Redis 
+Мне 25 года. Я Fullstack разработчик с 7+ годами опыта в программирование. Использую в своих проектах Nodejs, Javascript, Typescript, React, Next, Nest, Redux(redux-toolkit), MobX, MongoDB, Postgresql, Prisma, Redis 
 
 ### Skills
 
